@@ -4,6 +4,8 @@ This is an example Next.js project that shows Next.js' upcoming SSG (static-site
 
 **Note**: This example uses the experimental SSG hooks only available in the Next.js canary branch! The APIs used within this example will change over time. Since it is using a private API and experimental features, use at your own risk as these things could change at any moment.
 
+**Credit**: https://github.com/ijjk
+
 **Live Example hosted on Vercel**: https://notion-blog.vercel.app/
 
 ## Getting Started
