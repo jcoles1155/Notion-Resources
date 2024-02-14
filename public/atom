@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <subtitle>Blog</subtitle>
+    <link href="/atom" rel="self" type="application/rss+xml"/>
+    <link href="/" />
+    <updated>2024-02-14T06:06:59.348Z</updated>
+    <id>My Notion Blog</id>
+    <entry>
+      <id>/blog/Tech Opinion</id>
+      <title>Serverless was a big mistake... says Amazon</title>
+      <link href="/blog/Tech Opinion"/>
+      <updated>2024-02-13T08:00:00.389Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>What the Heck Serverless!!
+</p>
+          <p class="more">
+            <a href="/blog/Tech Opinion">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>JC Coles</name></author>
+    </entry>
+    <entry>
+      <id>/blog/Basics to Brainstorming</id>
+      <title>How to Brainstorm Great Business Ideas</title>
+      <link href="/blog/Basics to Brainstorming"/>
+      <updated>2024-02-12T08:00:00.389Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Basics</p>
+          <p class="more">
+            <a href="/blog/Basics to Brainstorming">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>JC Coles</name></author>
+    </entry>
+  </feed>
