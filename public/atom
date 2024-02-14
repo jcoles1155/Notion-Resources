@@ -4,34 +4,34 @@
     <subtitle>Blog</subtitle>
     <link href="/atom" rel="self" type="application/rss+xml"/>
     <link href="/" />
-    <updated>2024-02-14T06:06:59.348Z</updated>
+    <updated>2024-02-14T06:34:59.655Z</updated>
     <id>My Notion Blog</id>
     <entry>
-      <id>/blog/Tech Opinion</id>
+      <id>/serverless-was-a-big-mistake-says-amazon</id>
       <title>Serverless was a big mistake... says Amazon</title>
-      <link href="/blog/Tech Opinion"/>
-      <updated>2024-02-13T08:00:00.389Z</updated>
+      <link href="/serverless-was-a-big-mistake-says-amazon"/>
+      <updated>2024-02-13T08:00:00.711Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <p>What the Heck Serverless!!
 </p>
           <p class="more">
-            <a href="/blog/Tech Opinion">Read more</a>
+            <a href="/serverless-was-a-big-mistake-says-amazon">Read more</a>
           </p>
         </div>
       </content>
       <author><name>JC Coles</name></author>
     </entry>
     <entry>
-      <id>/blog/Basics to Brainstorming</id>
+      <id>/Basics to Brainstorming</id>
       <title>How to Brainstorm Great Business Ideas</title>
-      <link href="/blog/Basics to Brainstorming"/>
-      <updated>2024-02-12T08:00:00.389Z</updated>
+      <link href="/Basics to Brainstorming"/>
+      <updated>2024-02-12T08:00:00.711Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           <p>Basics</p>
           <p class="more">
-            <a href="/blog/Basics to Brainstorming">Read more</a>
+            <a href="/Basics to Brainstorming">Read more</a>
           </p>
         </div>
       </content>
