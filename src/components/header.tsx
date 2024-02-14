@@ -5,10 +5,13 @@ import { useRouter } from 'next/router'
 import styles from '../styles/header.module.css'
 
 const navItems: { label: string; page?: string; link?: string }[] = [
-  { label: 'Home', page: '/' },
-  { label: 'Blog', page: '/blog' },
+  { label: 'Blog', page: '/' },
+  { label: 'About', page: '/about' },
   { label: 'Contact', page: '/contact' },
-  { label: 'Source Code', link: 'https://github.com/ijjk/notion-blog' },
+  {
+    label: 'Source Code',
+    link: 'https://github.com/jcoles1155/Notion-Resources',
+  },
 ]
 
 const ogImageUrl = 'https://notion-blog.now.sh/og-image.png'
