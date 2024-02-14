@@ -12,6 +12,10 @@ const navItems: { label: string; page?: string; link?: string }[] = [
     label: 'Source Code',
     link: 'https://github.com/jcoles1155/Notion-Resources',
   },
+  {
+    label: 'JCTech',
+    link: 'https://www.jctech.blog/',
+  },
 ]
 
 const ogImageUrl = 'https://notion-blog.now.sh/og-image.png'
